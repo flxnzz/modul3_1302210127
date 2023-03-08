@@ -1,0 +1,17 @@
+C:\Users\PRAKTIKAN\Downloads\modul2_1302210127\obj\Debug\net6.0-windows\modul2_1302210127.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Downloads\modul2_1302210127\obj\Debug\net6.0-windows\modul2_1302210127.Form1.resources
+C:\Users\PRAKTIKAN\Downloads\modul2_1302210127\obj\Debug\net6.0-windows\modul2_1302210127.csproj.GenerateResource.cache
+C:\Users\PRAKTIKAN\Downloads\modul2_1302210127\obj\Debug\net6.0-windows\modul2_1302210127.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\Downloads\modul2_1302210127\obj\Debug\net6.0-windows\modul2_1302210127.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\Downloads\modul2_1302210127\obj\Debug\net6.0-windows\modul2_1302210127.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\Downloads\modul2_1302210127\obj\Debug\net6.0-windows\modul2_1302210127.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Downloads\modul2_1302210127\bin\Debug\net6.0-windows\modul2_1302210127.exe
+C:\Users\PRAKTIKAN\Downloads\modul2_1302210127\bin\Debug\net6.0-windows\modul2_1302210127.deps.json
+C:\Users\PRAKTIKAN\Downloads\modul2_1302210127\bin\Debug\net6.0-windows\modul2_1302210127.runtimeconfig.json
+C:\Users\PRAKTIKAN\Downloads\modul2_1302210127\bin\Debug\net6.0-windows\modul2_1302210127.dll
+C:\Users\PRAKTIKAN\Downloads\modul2_1302210127\bin\Debug\net6.0-windows\modul2_1302210127.pdb
+C:\Users\PRAKTIKAN\Downloads\modul2_1302210127\obj\Debug\net6.0-windows\modul2_1302210127.dll
+C:\Users\PRAKTIKAN\Downloads\modul2_1302210127\obj\Debug\net6.0-windows\refint\modul2_1302210127.dll
+C:\Users\PRAKTIKAN\Downloads\modul2_1302210127\obj\Debug\net6.0-windows\modul2_1302210127.pdb
+C:\Users\PRAKTIKAN\Downloads\modul2_1302210127\obj\Debug\net6.0-windows\modul2_1302210127.genruntimeconfig.cache
+C:\Users\PRAKTIKAN\Downloads\modul2_1302210127\obj\Debug\net6.0-windows\ref\modul2_1302210127.dll
